@@ -1,0 +1,2 @@
+# Sileo-SimplifiedChinese-Translation
+iOS上Sileo包管理器的中文语言文件
